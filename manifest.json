@@ -1,0 +1,6 @@
+{
+  "runtime":{"majorVersion":"8"},
+  "command":"java -jar accs-worker-redis.jar",
+  "type":"worker",
+  "notes":"Redis queue based ACCS worker app"
+}
